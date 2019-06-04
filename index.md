@@ -14,3 +14,5 @@ Elephants are very large animals.
 
 This paragraph is about thermodynamics of solid solution of metals to form alloys.
 deltaG = H - TS. The first term is hentalpy the second entropy.
+
+The entropy is an important terms at high temperature.
